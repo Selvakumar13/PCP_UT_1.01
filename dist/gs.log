@@ -1,0 +1,38 @@
+Ghostscript DLL found! Source:local path
+Dll path:
+Lib path:F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\lib;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\fonts;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\resource;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\bin;C:\Windows\fonts
+
+------------------------------------
+2024/01/02 17:05:44 blank.pdf
+ 0:dummy.exe
+ 1:-dBATCH
+ 2:-IF:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\lib;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\fonts;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\resource;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\bin;C:\Windows\fonts
+ 3:-c
+ 4:mark /NoCancel true /OutputFile (%printer%selva) /UserSettings << /DocumentName (blank.pdf) /MaxResolution 300 /Color 1 /Paper 9 >>  (mswinpr2) finddevice putdeviceprops setdevice
+ 5:-f
+ 6:C:/Users/Selva/AppData/Local/Temp/.OWM/blank.pdf
+GPL Ghostscript 8.63 (2008-08-01)
+Copyright (C) 2008 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 1.
+Page 1
+>>showpage, press <return> to continue<<
+Ghostscript DLL found! Source:local path
+Dll path:
+Lib path:F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\lib;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\fonts;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\resource;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\bin;C:\Windows\fonts
+
+------------------------------------
+2024/01/02 17:28:38 blank.pdf
+ 0:dummy.exe
+ 1:-dBATCH
+ 2:-IF:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\lib;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\fonts;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\resource;F:\Everything\PCP_MAIN\PCP_UT_1.01\dist\PCP\bin\bin;C:\Windows\fonts
+ 3:-c
+ 4:mark /NoCancel true /OutputFile (%printer%HP LaserJet Pro M402-M403 n-dne PCL 6) /UserSettings << /DocumentName (blank.pdf) /MaxResolution 300 /Color 1 /Paper 9 >>  (mswinpr2) finddevice putdeviceprops setdevice
+ 5:-f
+ 6:C:/Users/Selva/AppData/Local/Temp/.OWM/blank.pdf
+GPL Ghostscript 8.63 (2008-08-01)
+Copyright (C) 2008 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 1.
+Page 1
+>>showpage, press <return> to continue<<

@@ -1,0 +1,37 @@
+Ghostscript DLL found! Source:local path
+Dll path:
+Lib path:C:\p\gsbatchprint\lib;C:\p\gsbatchprint\fonts;C:\p\gsbatchprint\resource;C:\p\gsbatchprint\bin;C:\WINDOWS\fonts
+
+------------------------------------
+2023/04/21 18:26:19 Manual.pdf
+ 0:dummy.exe
+ 1:-dBATCH
+ 2:-IC:\p\gsbatchprint\lib;C:\p\gsbatchprint\fonts;C:\p\gsbatchprint\resource;C:\p\gsbatchprint\bin;C:\WINDOWS\fonts
+ 3:-c
+ 4:mark /NoCancel true /OutputFile (%printer%HP LaserJet Pro M304-M305) /UserSettings << /DocumentName (Manual.pdf) /MaxResolution 300 /Color 1 /Paper 1 >>  (mswinpr2) finddevice putdeviceprops setdevice
+ 5:-f
+ 6:C:/p/gsbatchprint/Manual.pdf
+GPL Ghostscript 8.63 (2008-08-01)
+Copyright (C) 2008 Artifex Software, Inc.  All rights reserved.
+This software comes with NO WARRANTY: see the file PUBLIC for details.
+Processing pages 1 through 10.
+Page 1
+>>showpage, press <return> to continue<<
+Page 2
+>>showpage, press <return> to continue<<
+Page 3
+>>showpage, press <return> to continue<<
+Page 4
+>>showpage, press <return> to continue<<
+Page 5
+>>showpage, press <return> to continue<<
+Page 6
+>>showpage, press <return> to continue<<
+Page 7
+>>showpage, press <return> to continue<<
+Page 8
+>>showpage, press <return> to continue<<
+Page 9
+>>showpage, press <return> to continue<<
+Page 10
+>>showpage, press <return> to continue<<
